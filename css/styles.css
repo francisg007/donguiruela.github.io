@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+
+*{
+    font-family: 'Roboto', sans-serif;        
+}
+
+.intro{
+    padding: 20px;        
+}
+
+.bio{
+    max-width: 30%;
+}
+
+.emerald{
+    color: #00a651;
+}
+
+.pfp{
+    width: 25%;
+    height: 25%;
+}
